@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![chrs-m's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrs-m&show_icons=true&theme=tokyonight)
+
 <!--
 **chrs-m/chrs-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
